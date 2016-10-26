@@ -1,7 +1,5 @@
 # Flask Skeleton
 
-Flask starter project...
-
 ## Quick Start
 
 ### Basics
